@@ -1,0 +1,275 @@
+21
+84
+Abilene
+Amarillo
+Austin
+Brownsville
+Bryan
+Corpus Christi
+Dallas
+El Paso
+Houston
+Killeen
+Laredo
+Longview
+Lubbock
+McAllen
+Midland
+San Angelo
+San Antonio
+Texarkana
+Tyler
+Waco
+Wichita Falls
+Abilene
+Dallas
+184
+Abilene
+San Angelo
+90
+Abilene
+Waco
+184
+Abilene
+Wichita Falls
+142
+Amarillo
+El Paso
+440
+Amarillo
+Lubbock
+123
+Amarillo
+Wichita Falls
+225
+Austin
+Bryan
+103
+Austin
+Killeen
+68
+Austin
+San Antonio
+80
+Brownsville
+Corpus Christi
+161
+Brownsville
+McAllen
+60
+Bryan
+Austin
+103
+Bryan
+Houston
+100
+Bryan
+Tyler
+146
+Bryan
+Waco
+86
+Corpus Christi
+Brownsville
+161
+Corpus Christi
+Houston
+217
+Corpus Christi
+Laredo
+143
+Corpus Christi
+McAllen
+154
+Corpus Christi
+San Antonio
+143
+Dallas
+Abilene
+184
+Dallas
+Longview
+126
+Dallas
+Texarkana
+177
+Tyler
+Dallas
+95
+Dallas
+Wichita Falls
+142
+El Paso
+Amarillo
+440
+El Paso
+Laredo
+606
+El Paso
+Midland
+305
+Houston
+Bryan
+100
+Houston
+Corpus Christi
+217
+Houston
+San Antonio
+197
+Houston
+Tyler
+199
+Killeen
+Austin
+68
+Killeen
+San Angelo
+184
+Killeen
+Waco
+63
+Laredo
+Corpus Christi
+143
+Laredo
+El Paso
+606
+Laredo
+McAllen
+144
+Laredo
+Midland
+418
+Laredo
+San Antonio
+156
+Longview
+Dallas
+126
+Longview
+Texarkana
+90
+Longview
+Tyler
+38
+Lubbock
+Amarillo
+123
+Lubbock
+Midland
+118
+Lubbock
+Wichita Falls
+210
+McAllen
+Brownsville
+60
+McAllen
+Corpus Christi
+154
+McAllen
+Laredo
+144
+Midland
+El Paso
+305
+Midland
+Laredo
+418
+Lubbock
+Midland
+118
+San Angelo
+Midland
+112
+San Angelo
+Abilene
+90
+San Angelo
+Killeen
+184
+San Angelo
+Midland
+112
+San Angelo
+San Antonio
+212
+San Angelo
+Waco
+215
+San Angelo
+Wichita Falls
+239
+San Antonio
+Austin
+80
+San Antonio
+Corpus Christi
+143
+San Antonio
+Houston
+197
+San Antonio
+Laredo
+156
+San Antonio
+San Angelo
+212
+Texarkana
+Dallas
+177
+Texarkana
+Longview
+90
+Texarkana
+Wichita Falls
+272
+Tyler
+Bryan
+146
+Tyler
+Dallas
+95
+Tyler
+Houston
+199
+Tyler
+Longview
+38
+Tyler
+Waco
+132
+Waco
+Abilene
+184
+Waco
+Bryan
+86
+Waco
+Killeen
+63
+Waco
+San Angelo
+215
+Waco
+Tyler
+132
+Wichita Falls
+Abilene
+142
+Wichita Falls
+Amarillo
+225
+Wichita Falls
+Dallas
+142
+Wichita Falls
+Lubbock
+210
+Wichita Falls
+San Angelo
+239
+Wichita Falls
+Texarkana
+272
